@@ -1,0 +1,22 @@
+{
+  "name": "ajs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "mini-css-extract-plugin": "^2.7.6"
+  },
+  "dependencies": {
+    "core-js": "^3.33.0",
+    "eslint": "^8.51.0"
+  }
+}
